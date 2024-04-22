@@ -1,0 +1,7 @@
+#myCanvas{
+    border-radius: 50px;
+    color: white;
+    border-color: black;
+    border-style: dashed;
+    border-width: 5px;
+}
