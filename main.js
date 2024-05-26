@@ -1,11 +1,10 @@
-var mouseEvent=""
+var mouseEvent="";
 
 canvas= document.getElementById("myCanvas");
 ctx=canvas.getContext("2d");
 
 var color="blue";
 var width=7;
-var radius=9;
 
 canvas.addEventListener("mousedown", my_mousedown);
 
